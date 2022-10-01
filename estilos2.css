@@ -1,0 +1,18 @@
+body{
+    font-family: monospace;
+    background: rgb(0, 255, 234);
+}
+.titulo{
+    text-align: center;
+    font-size: 30px ;
+}
+.contenedor{
+    margin: auto;
+    display: table;
+}
+
+p{
+    font-size: 20px;
+    float: left;
+    color:rgb(0, 0, 0);
+    position: relative;
